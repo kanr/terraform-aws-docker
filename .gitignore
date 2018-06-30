@@ -1,0 +1,11 @@
+.DS_Store
+.terraform
+.vagrant
+*.tfstate*
+*.tfvars
+*secret*
+*.publishsettings
+*secret*
+*.log
+
+*.old
